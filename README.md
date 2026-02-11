@@ -50,3 +50,7 @@ i've also decided to add some things so people can quickly see my projects:
 | --- | --- |
 | [Auroral Ambience](https://www.newgrounds.com/audio/listen/1458737) | <img width="670" height="480" alt="image" src="https://github.com/user-attachments/assets/47998b2c-015e-4f40-befa-343de07c92e3" /> |
 | [Nebula ET15](https://www.newgrounds.com/audio/listen/1496229) | <img width="670" height="488" alt="image" src="https://github.com/user-attachments/assets/135e3576-fe1d-4a14-8123-af8539d8265e" /> |
+
+## contact
+
+want to contact me? rmforbusiness@gmail.com or message me on [instagram](https://www.instagram.com/randommaerks/) / [behance](https://www.behance.net/randommaerks)
