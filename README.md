@@ -12,6 +12,8 @@ so here are some things you can know about me. you don't need to, but you can:
 - i have the ability to write with proper grammar and advanced vocabulary. i just choose not to do it anyway
 - I have no reason to hide my unprofessionalism. lol
 
+## projects
+
 i've also decided to add some things so people can quickly see my projects:
 
 ### type design & fonts
