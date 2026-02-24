@@ -40,7 +40,7 @@ i've also decided to add some things so people can quickly see my projects:
 
 | name | image |
 | --- | --- |
-| [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="860" height="418" alt="image" src="https://github.com/user-attachments/assets/afc2a335-88da-4a76-9f24-146a9389f515" /> |
+| [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
 | Wordeux | <img width="960" height="572" alt="image" src="https://github.com/user-attachments/assets/8c2c2779-4217-4e3f-b9a0-2d7df734929d" /> |
 | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="890" height="824" alt="image" src="https://github.com/user-attachments/assets/ff2c64f5-3d54-40eb-868e-e5b5adb4ff49" /> |
 
