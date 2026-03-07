@@ -17,6 +17,7 @@ so here are some things you can know about me. you don't need to, but you can:
 i've also decided to add some things so people can quickly see my projects:
 
 (*) in development  
+(**) in development, but less active
 (†) finished, won't be tampered with  
 ( ) inactive
 
@@ -26,7 +27,7 @@ i've also decided to add some things so people can quickly see my projects:
 
 | name | image |
 | --- | --- |
-| *[Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) | <img width="1398" height="172" alt="image" src="https://github.com/user-attachments/assets/e88e4608-fc9d-42a7-ae72-97d545302f98" /> |
+| **[Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) | <img width="1398" height="172" alt="image" src="https://github.com/user-attachments/assets/e88e4608-fc9d-42a7-ae72-97d545302f98" /> |
 | *[Trmnl Cubic](https://github.com/RandomMaerks/Trmnl-Cubic) | <img width="1580" height="158" alt="image" src="https://github.com/user-attachments/assets/f62c993c-c193-4019-915d-a036792586ec" /> |
 | [Wasabe](https://github.com/RandomMaerks/Wasabe) | <img width="1492" height="220" alt="image" src="https://github.com/user-attachments/assets/c0410677-8567-427c-8c12-1c5377e5000a" /> |
 | †[Hebdomadal](https://github.com/RandomMaerks/Hebdomadal) | <img width="1535" height="186" alt="image" src="https://github.com/user-attachments/assets/d5b85c83-4c5d-43af-a2ee-1d02f8bb42ce" /> |
@@ -38,8 +39,8 @@ i've also decided to add some things so people can quickly see my projects:
 | name | image |
 | --- | --- |
 | *Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
-| *Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
-| *Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
+| **Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
+| **Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
 
 ### coding projects
 
