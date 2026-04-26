@@ -47,7 +47,7 @@ i've also decided to add some things so people can quickly see my projects:
 | activity | name | image |
 | :---: | --- | --- |
 | * | [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
-| * | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="890" height="824" alt="image" src="https://github.com/user-attachments/assets/ff2c64f5-3d54-40eb-868e-e5b5adb4ff49" /> |
+| * | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
 
 ### music
 
