@@ -33,7 +33,7 @@ i've also decided to add some things so people can quickly see my projects:
 |   | [Wasabe](https://github.com/RandomMaerks/Wasabe) | <img width="1492" height="220" alt="image" src="https://github.com/user-attachments/assets/c0410677-8567-427c-8c12-1c5377e5000a" /> |
 | † | [Hebdomadal](https://github.com/RandomMaerks/Hebdomadal) | <img width="1535" height="186" alt="image" src="https://github.com/user-attachments/assets/d5b85c83-4c5d-43af-a2ee-1d02f8bb42ce" /> |
 |   | [Droide](https://github.com/RandomMaerks/Droide) | <img width="1576" height="180" alt="image" src="https://github.com/user-attachments/assets/31633feb-77d3-4f9b-8b34-8c55aa3832a1" /> |
-| * | [Phlatt Grotesk](https://github.com/RandomMaerks/Phlatt-Grotesk) | <img width="1538" height="164" alt="image" src="https://github.com/user-attachments/assets/a1f4bd57-a82f-4d17-a774-1da10898d8dd" /> |
+| ** | [Phlatt Grotesk](https://github.com/RandomMaerks/Phlatt-Grotesk) | <img width="1538" height="164" alt="image" src="https://github.com/user-attachments/assets/a1f4bd57-a82f-4d17-a774-1da10898d8dd" /> |
 
 - non-foss but worthy of sharing
 
@@ -41,14 +41,14 @@ i've also decided to add some things so people can quickly see my projects:
 | :---: | --- | --- |
 | * | Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
 | ** | Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
-| ** | Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
+|   | Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
 
 ### coding projects
 
 | activity | name | image |
 | :---: | --- | --- |
 | ** | [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
-| * | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
+| ** | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
 | * | [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/images/readme_voxelate.png) |
 
 ### music
