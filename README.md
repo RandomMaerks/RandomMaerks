@@ -40,7 +40,7 @@ i've also decided to add some things so people can quickly see my projects:
 | activity | name | image |
 | :---: | --- | --- |
 | ** | Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
-| * | Hypermono | <img width="1604" height="177" alt="image" src="https://github.com/user-attachments/assets/8e2add35-c7dd-43bc-a229-453ed3d0b351" /> |
+| * | Hypermono | <img width="1616" height="279" alt="image" src="https://github.com/user-attachments/assets/d4143abf-6fce-409a-af27-b4f9504d23cc" /> |
 | ** | Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
 |   | Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
 
