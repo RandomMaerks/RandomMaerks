@@ -49,4 +49,4 @@ i've also decided to add some things so people can quickly see my projects:
 
 ## contact
 
-want to contact me? rmforbusiness@gmail.com or message me on [instagram](https://www.instagram.com/randommaerks/) / [behance](https://www.behance.net/randommaerks)
+want to contact me? email me at rmforbusiness@gmail.com (preferred) or message me on [instagram](https://www.instagram.com/randommaerks/) / [behance](https://www.behance.net/randommaerks)
