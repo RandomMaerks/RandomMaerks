@@ -16,50 +16,36 @@ so here are some things you can know about me. you don't need to, but you can:
 
 i've also decided to add some things so people can quickly see my projects:
 
-(*) in development  
-(**) in development, but less active  
-(†) finished, won't be tampered with  
-( ) inactive
-
 ### type design & fonts
 
 - free & open-source
 
-| activity | name | image |
-| :---: | --- | --- |
-| ** | [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) | <img width="1398" height="172" alt="image" src="https://github.com/user-attachments/assets/e88e4608-fc9d-42a7-ae72-97d545302f98" /> |
-| * | [Accent Mono](https://github.com/RandomMaerks/Accent-Mono) | <img width="1626" height="203" alt="image" src="https://github.com/user-attachments/assets/ba4a4cbd-4f3b-4669-be6f-3c78a7dd75c7" /> |
-| ** | [Trmnl Cubic](https://github.com/RandomMaerks/Trmnl-Cubic) | <img width="1580" height="158" alt="image" src="https://github.com/user-attachments/assets/f62c993c-c193-4019-915d-a036792586ec" /> |
-|   | [Wasabe](https://github.com/RandomMaerks/Wasabe) | <img width="1492" height="220" alt="image" src="https://github.com/user-attachments/assets/c0410677-8567-427c-8c12-1c5377e5000a" /> |
-| † | [Hebdomadal](https://github.com/RandomMaerks/Hebdomadal) | <img width="1535" height="186" alt="image" src="https://github.com/user-attachments/assets/d5b85c83-4c5d-43af-a2ee-1d02f8bb42ce" /> |
-|   | [Droide](https://github.com/RandomMaerks/Droide) | <img width="1576" height="180" alt="image" src="https://github.com/user-attachments/assets/31633feb-77d3-4f9b-8b34-8c55aa3832a1" /> |
-| ** | [Phlatt Grotesk](https://github.com/RandomMaerks/Phlatt-Grotesk) | <img width="1538" height="164" alt="image" src="https://github.com/user-attachments/assets/a1f4bd57-a82f-4d17-a774-1da10898d8dd" /> |
+| name | image |
+| :---: | --- |
+| [Overused Grotesk](https://github.com/RandomMaerks/Overused-Grotesk) | <img width="1398" height="172" alt="image" src="https://github.com/user-attachments/assets/e88e4608-fc9d-42a7-ae72-97d545302f98" /> |
+| [Accent Mono](https://github.com/RandomMaerks/Accent-Mono) | <img width="1626" height="203" alt="image" src="https://github.com/user-attachments/assets/ba4a4cbd-4f3b-4669-be6f-3c78a7dd75c7" /> |
+| [Trmnl Cubic](https://github.com/RandomMaerks/Trmnl-Cubic) | <img width="1580" height="158" alt="image" src="https://github.com/user-attachments/assets/f62c993c-c193-4019-915d-a036792586ec" /> |
+| [Wasabe](https://github.com/RandomMaerks/Wasabe) | <img width="1492" height="220" alt="image" src="https://github.com/user-attachments/assets/c0410677-8567-427c-8c12-1c5377e5000a" /> |
+| [Hebdomadal](https://github.com/RandomMaerks/Hebdomadal) | <img width="1535" height="186" alt="image" src="https://github.com/user-attachments/assets/d5b85c83-4c5d-43af-a2ee-1d02f8bb42ce" /> |
+| [Droide](https://github.com/RandomMaerks/Droide) | <img width="1576" height="180" alt="image" src="https://github.com/user-attachments/assets/31633feb-77d3-4f9b-8b34-8c55aa3832a1" /> |
+| [Phlatt Grotesk](https://github.com/RandomMaerks/Phlatt-Grotesk) | <img width="1538" height="164" alt="image" src="https://github.com/user-attachments/assets/a1f4bd57-a82f-4d17-a774-1da10898d8dd" /> |
 
 - non-foss but worthy of sharing
 
-| activity | name | image |
-| :---: | --- | --- |
-| ** | Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
-| * | Hypermono | <img width="1616" height="279" alt="image" src="https://github.com/user-attachments/assets/d4143abf-6fce-409a-af27-b4f9504d23cc" /> |
-| ** | Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
-|   | Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
+| name | image |
+| :---: | --- |
+| Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
+| Hypermono | <img width="1616" height="279" alt="image" src="https://github.com/user-attachments/assets/d4143abf-6fce-409a-af27-b4f9504d23cc" /> |
+| Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
+| Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
 
 ### coding projects
 
-| activity | name | image |
-| :---: | --- | --- |
-| ** | [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
-| ** | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
-| * | [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/images/readme_voxelate.png) |
-
-### music
-
-- personal selection
-
-| activity | name | image |
-| :---: | --- | --- |
-| † | [Auroral Ambience](https://www.newgrounds.com/audio/listen/1458737) | <img width="670" height="480" alt="image" src="https://github.com/user-attachments/assets/47998b2c-015e-4f40-befa-343de07c92e3" /> |
-| † | [Nebula ET15](https://www.newgrounds.com/audio/listen/1496229) | <img width="670" height="488" alt="image" src="https://github.com/user-attachments/assets/135e3576-fe1d-4a14-8123-af8539d8265e" /> |
+| name | image |
+| :---: | --- |
+| [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
+| [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
+| [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/images/readme_voxelate.png) |
 
 ## contact
 
