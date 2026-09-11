@@ -34,10 +34,13 @@ i've also decided to add some things so people can quickly see my projects:
 
 | name | image |
 | :---: | --- |
-| Prysm | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
-| Hypermono | <img width="1616" height="279" alt="image" src="https://github.com/user-attachments/assets/d4143abf-6fce-409a-af27-b4f9504d23cc" /> |
-| Ultramono | <img width="1524" height="184" alt="image" src="https://github.com/user-attachments/assets/47b95fb7-3606-4c71-9a48-2cce628dacd6" /> |
-| Cygre Neuer | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
+| Hypermono (WIP) | <img width="1616" height="279" alt="image" src="https://github.com/user-attachments/assets/d4143abf-6fce-409a-af27-b4f9504d23cc" /> |
+| Prysm (WIP) | <img width="1634" height="178" alt="image" src="https://github.com/user-attachments/assets/a57b9b9f-ebe2-4002-a542-a6594f9dbce2" /> |
+| Cygre Neuer (WIP) | <img width="1486" height="198" alt="image" src="https://github.com/user-attachments/assets/eb33f7f1-f41c-438c-bd55-3d2fd7d31d4a" /> |
+| [Cygre](https://randommaerks.gumroad.com/l/rm_cygre) | <img width="1474" height="204" alt="image" src="https://github.com/user-attachments/assets/92e602a5-9640-47ea-bc0e-ebb0d3bb72d3" /> |
+| [Ultramono](https://randommaerks.gumroad.com/l/rm_ultramononew) | <img width="1626" height="144" alt="image" src="https://github.com/user-attachments/assets/bb7e4c6c-0b4a-4d12-ba69-5a3dc6a4465b" /> |
+| [Random Grotesque](https://randommaerks.gumroad.com/l/rm_randomgrotesque) | <img width="1294" height="140" alt="image" src="https://github.com/user-attachments/assets/49b00110-84d7-4844-a9db-89e90848dd6a" /> |
+| [Outreque](https://randommaerks.gumroad.com/l/rm_outreque) | <img width="1498" height="236" alt="image" src="https://github.com/user-attachments/assets/b0451328-0e07-43de-8c71-0f9f5bee47f2" /> |
 
 ### coding projects
 
