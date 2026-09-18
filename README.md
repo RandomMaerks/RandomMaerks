@@ -6,11 +6,15 @@ so here are some things you can know about me. you don't need to, but you can:
 
 - my username has been and will always be one whole word. the "ae" is two letters. "maerks" is pronounced like "marks", but you feel slightly more posh after saying it. why? i dont know. go ask my 2020 self or something
 - apparently my github account was created on the 16th of july, 2022
-- no, i don't know anything about coding (update 11 feb 2026: ok maybe coding is not so bad after all)
-- i use fontforge even though it sucks because I AM SO USED TO IT AND CANNOT LIVE WITHOUT IT (update 11 feb 2026: i was convinced to use fontlab)
+- no, i don't know anything about coding
+  - (update 11 feb 2026: ok maybe coding is not so bad after all)
+  - (update 18 sep 2026: maybe this is not a good thing to put on here anymore. people might have the wrong impression... i do know coding stuff now and i've learnt a lot through practice and making my own programs & library) 
+- i use fontforge even though it sucks because I AM SO USED TO IT AND CANNOT LIVE WITHOUT IT
+  - (update 11 feb 2026: i was convinced to use fontlab)
 - i work whenever i feel like working
 - i have the ability to write with proper grammar and advanced vocabulary. i just choose not to do it anyway
 - I have no reason to hide my unprofessionalism. lol
+- i do not use and will never use AI in my projects. if i ever do, it's never seeing the light of day.
 
 ## projects
 
@@ -45,10 +49,10 @@ i've also decided to add some things so people can quickly see my projects:
 ### coding projects
 
 | name | image |
-| :---: | --- |
-| [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> |
-| [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> |
-| [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/images/readme_voxelate.png) |
+| :---: | :---: |
+| [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> <br> *Math-focused interpreted programming language & Python interpreter* |
+| [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> <br> *Collection of Word games & Game interface*|
+| [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/images/readme_voxelate.png) <br> *Python module for drawing graphics in the terminal* |
 
 ## contact
 
