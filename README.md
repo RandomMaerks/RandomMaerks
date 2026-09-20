@@ -14,7 +14,7 @@ so here are some things you can know about me. you don't need to, but you can:
 - i work whenever i feel like working
 - i have the ability to write with proper grammar and advanced vocabulary. i just choose not to do it anyway
 - I have no reason to hide my unprofessionalism. lol
-- i do not use and will never use AI in my projects. if i ever do, it's never seeing the light of day.
+- i do not use and will never use AI in my projects. if i ever do, that project's never seeing the light of day.
 
 ## projects
 
