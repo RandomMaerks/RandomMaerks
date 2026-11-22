@@ -49,7 +49,7 @@ i've also decided to add some things so people can quickly see my projects:
 
 | name | image |
 | :---: | :---: |
-| [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/gallery/spinning_cube.mp4) <br> *Python module for drawing graphics in the terminal* |
+| [terminalCanvas](https://github.com/RandomMaerks/terminalCanvas) | ![Voxelate, a voxel-based Minecraft-wannabe game](https://raw.githubusercontent.com/RandomMaerks/terminalCanvas/main/gallery/readme_voxelate.png) <br> *Python module for drawing graphics in the terminal* |
 | [Piègeur](https://github.com/RandomMaerks/Piege) | <img width="964" height="672" alt="image" src="https://github.com/user-attachments/assets/03300284-7232-48fd-b005-ee81b82c9c80" /> <br> *Math-focused interpreted programming language & Python interpreter* |
 | [Lexophile's Collection](https://github.com/RandomMaerks/lexophiles-collection) | <img width="659" height="568" alt="image" src="https://github.com/user-attachments/assets/a3f759a0-9e76-4b89-8c69-e4d3a5424ca9" /> <br> *Collection of Word games & Game interface*|
 
